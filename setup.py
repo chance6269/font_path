@@ -26,7 +26,7 @@ requires = [
 
 setup(
     name='font_path',  # 패키지 이름
-    version='0.1',  # 버전
+    version='1.0',  # 버전
     packages=find_packages(),  # 패키지를 찾는 방법
     install_requires=requires,  # 의존성 패키지 목록
     author=name,  # 작성자 이름
