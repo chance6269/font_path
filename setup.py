@@ -20,7 +20,7 @@ url = 'https://github.com/chance6269/font_path.git'  # Replace with your project
 
 # Define dependencies
 requires = [
-    'matplotlib.font_manager',
+    # 'matplotlib.font_manager',
     'os'
 ]
 
